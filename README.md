@@ -1,10 +1,4 @@
-# GITHUB INDICATORS
-
-![GitHub Repo stars](https://img.shields.io/github/stars/HuseynGuluzade/Netflix?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/HuseynGuluzade/Netflix?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/HuseynGuluzade/Netflix?style=for-the-badge)
-
-  # Luxury Interior Design Studio
+ # Luxury Interior Design Studio
 
 Hello, welcome to this lesson. Today I create with html, css and js file for Luxury Interior Design Studio. I use here html, css and js tags.
 
